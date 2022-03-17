@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Two</string>
+    <string name="txt_students">Баранов</string>
+    <string name="btn_students">Добавить барана</string>
+</resources>
